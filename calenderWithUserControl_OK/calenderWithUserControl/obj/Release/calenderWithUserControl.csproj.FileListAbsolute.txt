@@ -1,0 +1,13 @@
+D:\dev\calender\calenderWithUserControl\calenderWithUserControl\bin\Release\calenderWithUserControl.exe.config
+D:\dev\calender\calenderWithUserControl\calenderWithUserControl\bin\Release\calenderWithUserControl.exe
+D:\dev\calender\calenderWithUserControl\calenderWithUserControl\bin\Release\calenderWithUserControl.pdb
+D:\dev\calender\calenderWithUserControl\calenderWithUserControl\obj\Release\calenderWithUserControl.csprojResolveAssemblyReference.cache
+D:\dev\calender\calenderWithUserControl\calenderWithUserControl\obj\Release\calenderWithUserControl.AddFrame.resources
+D:\dev\calender\calenderWithUserControl\calenderWithUserControl\obj\Release\calenderWithUserControl.Form1.resources
+D:\dev\calender\calenderWithUserControl\calenderWithUserControl\obj\Release\calenderWithUserControl.fm_category.resources
+D:\dev\calender\calenderWithUserControl\calenderWithUserControl\obj\Release\calenderWithUserControl.Myoutlook.resources
+D:\dev\calender\calenderWithUserControl\calenderWithUserControl\obj\Release\calenderWithUserControl.Properties.Resources.resources
+D:\dev\calender\calenderWithUserControl\calenderWithUserControl\obj\Release\calenderWithUserControl.SettingForm.resources
+D:\dev\calender\calenderWithUserControl\calenderWithUserControl\obj\Release\calenderWithUserControl.csproj.GenerateResource.Cache
+D:\dev\calender\calenderWithUserControl\calenderWithUserControl\obj\Release\calenderWithUserControl.exe
+D:\dev\calender\calenderWithUserControl\calenderWithUserControl\obj\Release\calenderWithUserControl.pdb
